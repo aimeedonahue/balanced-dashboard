@@ -72,3 +72,7 @@ knowledge of the balanced-dashboard application.
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aimeedonahue/balanced-dashboard/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aimeedonahue/balanced-dashboard/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
